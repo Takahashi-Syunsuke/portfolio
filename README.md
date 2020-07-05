@@ -21,7 +21,7 @@
  
 # Usage
  以下サイトにアクセスし、ご覧いただけます。<br>
- <a href="http://takahashi-portfolio.s3-website-ap-northeast-1.amazonaws.com/">「Takahashi Syunsuke」</a>
+ <a href="http://takahashi-portfolio.s3-website-ap-northeast-1.amazonaws.com/">ポートフォリオサイトへ</a>
  
 # Note
 当サイトに、自身で制作致しました他サイトへのリンクがございます。<br>
