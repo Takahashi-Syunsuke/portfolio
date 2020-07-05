@@ -17,12 +17,11 @@
  ・jQuery（3.5.1）
  
  デプロイ環境<br>
- ・AWS
+ ・AWS（S3によるWEBサイトのホスティング）
  
 # Usage
  以下サイトにアクセスし、ご覧いただけます。<br>
- 「Takahashi Syunsuke」<br>
- URL： 
+ <a href="http://takahashi-portfolio.s3-website-ap-northeast-1.amazonaws.com/">「Takahashi Syunsuke」</a>
  
 # Note
 当サイトに、自身で制作致しました他サイトへのリンクがございます。<br>
